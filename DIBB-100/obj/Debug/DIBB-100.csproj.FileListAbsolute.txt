@@ -1,0 +1,10 @@
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\bin\Debug\DIBB-100.exe.config
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\bin\Debug\DIBB-100.exe
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\bin\Debug\DIBB-100.pdb
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\obj\Debug\DIBB-100.csprojAssemblyReference.cache
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\obj\Debug\DIBB_100.Inicio.resources
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\obj\Debug\DIBB_100.Properties.Resources.resources
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\obj\Debug\DIBB-100.csproj.GenerateResource.cache
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\obj\Debug\DIBB-100.csproj.CoreCompileInputs.cache
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\obj\Debug\DIBB-100.exe
+C:\Users\Obdu\Desktop\DIBB-100\DIBB-100\DIBB-100\obj\Debug\DIBB-100.pdb
